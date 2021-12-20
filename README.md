@@ -1,2 +1,2 @@
-# quiz1
+# quiz game
 Quiz das capitais dos estados brasileiros
